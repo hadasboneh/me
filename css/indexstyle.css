@@ -18,8 +18,6 @@ input,select{vertical-align:middle}
 
 .image {
 position: relative;
-width: fixed;
-
 }
 
 
@@ -45,12 +43,12 @@ width: 100%;
 }
 
 
-p {
+.pisca {
 
 font-size: 17px;
 color: #ffffff;
 position: relative;
-top: 110px;
+top: 70px;
 left: 15px;
 width: 100%;
 font margin: 17px;
